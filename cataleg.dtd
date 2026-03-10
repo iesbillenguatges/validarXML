@@ -1,0 +1,7 @@
+<!ELEMENT cataleg (llibre+)>
+<!ELEMENT llibre (titol, autor, any, preu)>
+<!ATTLIST llibre categoria (novel·la | assaig | tecnologia) #REQUIRED>
+<!ELEMENT titol (#PCDATA)>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT any (#PCDATA)>
+<!ELEMENT preu (#PCDATA)>

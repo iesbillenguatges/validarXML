@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE cataleg SYSTEM "cataleg.dtd">
+<cataleg>
+    <llibre categoria="tecnologia">
+    <titol>Aprendre XML</titol>
+    <autor>Joan Garcia</autor>
+    <any>2023</any>
+    <preu>25.50</preu>
+</llibre>
+<llibre categoria="novel·la">
+    <titol>La ciutat perduda</titol>
+    <autor>Marta Soler</autor>
+    <any>2019</any>
+    <preu>18.90</preu>
+    </llibre>
+</cataleg>
